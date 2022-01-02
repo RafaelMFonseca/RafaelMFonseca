@@ -6,7 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMFonseca&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-<div align="center" style="display: inline_block"><br>
+
+---
+
+<div align="center" style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -25,7 +28,10 @@
 
 ---
 
-<div align="center">
-  <a href="mailto:ramofojabuka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafael-moreira-fonseca/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+<p align="center">
+  <samp>
+    <a href="https://rafaelmfonseca.github.io/">my website<br /><br /></a>
+    <a href="mailto:ramofojabuka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/rafael-moreira-fonseca/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </samp>
+</p>
