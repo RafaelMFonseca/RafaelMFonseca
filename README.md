@@ -12,11 +12,11 @@
 <div align="center" style="display: inline_block">
     <p>Atualmente focando em:</p>
     <div>
-        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
-        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
-        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
-        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+        <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+        <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
+        <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+        <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
+        <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
     </div>
 </div>
 <br>
