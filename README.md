@@ -42,7 +42,7 @@
 
 <p align="center">
     <samp>
-    <a href="https://rafaelmfonseca.github.io/">my website<br /><br /></a>
+    <a href="https://rafaelmfonseca.github.io/posts/">my website<br /><br /></a>
     <a href="mailto:ramofojabuka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rafael-moreira-fonseca/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://br.pinterest.com/rarafonseca/"><img src="https://img.shields.io/badge/-pinterest-%23333?style=for-the-badge&logo=pinterest&logoColor=white"></a>
